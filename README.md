@@ -8,4 +8,5 @@ Local에서 https형식으로 push가 안 되는 경우에는 다음과 같은 �
 >3. Windows 자격 증명
 >4. 일반 자격 증명
 >5. 'git:https://github' 제거
+
 그러면 드디어 git Bash에서 제대로 로그인이 가능하다.
