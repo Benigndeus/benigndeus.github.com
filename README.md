@@ -13,3 +13,5 @@ Local에서 https형식으로 push가 안 되는 경우에는 다음과 같은 �
 그러면 드디어 git Bash에서 제대로 로그인이 가능하다.
 
 ---
+## [git] [GitHub]
+markdown 문법도 다 까먹었다. git도 다시 하려니 막상 어렵다.
