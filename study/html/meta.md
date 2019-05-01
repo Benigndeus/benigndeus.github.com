@@ -45,7 +45,6 @@ HTML 문서의 \<head\>와 \</head\> 사이에 입력하는 특수 태그로서 
 - `Noimageindex` : 그 페이지에 포함된 이미지를 검색 대상에서 제외한다.
 - `Noimageclick` : 그 페이지에 포함된 이미지의 링크를 방지힌다.
 
-
 ## 문자 코드의 종류 설정  
 
 `<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />`
