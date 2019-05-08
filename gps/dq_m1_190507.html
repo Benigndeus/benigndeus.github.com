@@ -9,17 +9,26 @@
     <title>GPS M1 Daily Quest 190507</title>
 
     <style>
-        /*div { border: 1px solid #ccc; }*/
+        div { border: 1px solid #ccc; }
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 180%;
+            font-size: 80%;
+        }
         h3 {
             text-align: right;
         }
-        #col1 {
+        #header {
+            text-align: center;
+        }
+        #col1{
             float: left;
             width: 48%;
         }
         #col2 {
             float: right;
             width: 48%;
+            vertical-align: top;
         }
         #num2 {
             text-align: center;
@@ -40,12 +49,18 @@
         <div id="header">
             <div id="col1">
                 <h2>중1 일일 수학 과제물</h2>
-                <img src="./gps.png" alt="Logo" width="75%">
+                <img src="./gps.png" alt="Logo" width="60%">
             </div>
             <div id="col2">
-                <br>
-                <h3>2019. 05. 07.&nbsp;&nbsp;</h3>
-                <h3>이름:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
+                <table style="text-align:right;">
+                    <tr>
+                        <td colspan="2"><h3>2019. 05. 07.</h3></td>
+                    </tr>
+                    <tr>
+                        <td><h3>이름:</h3></td>
+                        <td></td>
+                    </tr>
+                </table>
             </div>
         </div>
 
