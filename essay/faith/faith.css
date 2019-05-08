@@ -1,0 +1,14 @@
+.bible td {
+    border: 0px;
+    vertical-align: top;
+}
+.jesus_say {
+    color: crimson;
+}
+.question {
+    color: crimson;
+    font-size: 110%;
+}
+p {
+    text-indent: 5%;
+}
