@@ -1,0 +1,46 @@
+/*div { border: 1px solid red; }*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 180%;
+    font-size: 80%;
+}
+
+/*** Header ***/
+#title {
+    float: left;
+    width: 48%;
+}
+#logo_box {
+    float: left;
+    width: 30%;
+    line-height: 280%;
+}
+#logo {
+    vertical-align: middle;
+}
+#date_n_name {
+    float: right;
+    width: 20%;
+}
+.date_n_name {
+    text-align: center;
+}
+
+/*** Example ***/
+#example td {
+    border-collapse: collapse;
+    width: 50%;
+    vertical-align: top;
+    padding: 10px
+}
+#middle {
+    border-right: 1px solid black;
+}
+.num {
+    /* a4용지 크기로 렌더링 하는 방법이 없을까? */
+    height: 440px;
+}
+#num3 {
+    border: 1px solid black;
+    text-align: center;
+}
