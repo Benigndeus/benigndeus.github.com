@@ -44,3 +44,7 @@ body {
     border: 1px solid black;
     text-align: center;
 }
+.circleList {
+    list-style: none;
+    padding-left: 5%
+}
